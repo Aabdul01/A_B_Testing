@@ -15,4 +15,4 @@ The A/B test was conducted using a two-sample t-test to compare the purchase amo
 - Determined statistical significance: The p-value was compared to the significance level (alpha) to determine whether the null hypothesis should be rejected or not.
 
 # Results
-Based on the A/B test, the p-value was found to be less than the significance level of 0.05, indicating that there was a significant difference in purchase amounts between Variation A and Variation B. Therefore, the null hypothesis was rejected in favor of the alternative hypothesis.
+After analyzing the data, we found that the p-value was 0.14, which is greater than our significance level. Therefore, we did not reject the null hypothesis, and we concluded that changing the color of the 'Shop Now' button did not have a statistically significant impact on the click-through rate..
